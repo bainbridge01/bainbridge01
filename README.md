@@ -1,4 +1,4 @@
-Hi there i am Bainbridge 👋
+## Hi there i am Bainbridge 👋
 
 - 🔭 I’m currently working on - Ajo Express, Urhobo connect Applications
 - 🌱 I’m currently learning - ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -23,7 +23,7 @@ Hi there i am Bainbridge 👋
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
-##Stats
+## Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=bainbridge01&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
 
