@@ -7,3 +7,5 @@ Hi there i am Bainbridge 👋
 - 💬 Ask me about -Anything
 - 📫 How to reach me: http://edafebain.netlify.app 
 - ⚡ Fun fact: I ama good listner
+
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
